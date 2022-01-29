@@ -1,5 +1,5 @@
 //document.addEventListener('DOMContentLoaded',function(){
-let correct = ['路','gasoline','石鹸'];
+let correct = ['路','gasoline','石鹸','わたしだめしまいにいましめだしたわ'];
     var num;
     //var buttons = document.querySelectorAll("input[id='buttons']");
     function judgement(num){
