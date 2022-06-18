@@ -7,7 +7,7 @@
         - eraceは該当する要素をすべて消す
         
     |コンテナ|関数|計算量|備考|
-    |:-:|:-:|:-:|:-:|
+    |:---:|:---:|:---:|:---:|
     |(multi)set|insert|条件付で(?)対数時間以下|ABC253C(multiset)|
     |(multi)set|erace|要素指定ではlog(size)|ABC253C(multiset)|
     |(multi)set|count|(log(size)+count)に比例|ABC253C(multiset, erace&insertを繰り返すとTLE)|
